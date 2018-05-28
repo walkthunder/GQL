@@ -1,5 +1,5 @@
 {
-  "name": "ghost-gql",
+  "name": "walkthunder-ghost-gql",
   "version": "0.0.10",
   "description": "Filter query language for Ghost",
   "main": "index.js",
